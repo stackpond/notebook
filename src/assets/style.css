@@ -1,0 +1,16 @@
+.border-left-paragraph {
+ border-left: 3px groove;
+}
+
+ .fade-enter, .fade-leave-to  {
+  opacity: 0;
+}
+
+table {
+ max-height: 300px;
+}
+
+.row.limit{
+ max-height:200px;
+ overflow:auto;
+}
